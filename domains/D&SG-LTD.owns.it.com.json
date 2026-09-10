@@ -1,0 +1,15 @@
+
+{
+    "description": "A website",
+    "domain": "owns.it.com",
+    "subdomain": "D&SG-LTD",
+    "owner": {
+        "repo": "https://github.com/DhairyaGogri/mycompany.github.io",
+        "email": "dhairyagogri97@gmail.com"
+    },
+    "record": {
+        "CNAME": "dhairyagogri.github.io"
+        ]
+    },
+    "proxied": false
+}
